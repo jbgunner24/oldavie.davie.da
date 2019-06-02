@@ -1,4 +1,4 @@
-theme: david's website
+## david's website
 
 ## Welcome to GitHub Pages
 
